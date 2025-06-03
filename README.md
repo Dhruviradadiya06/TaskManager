@@ -3,17 +3,25 @@ RDJD's Task Manager
 A lightweight Windows Task Manager built with Python and Tkinter, offering real-time process monitoring, GUI task handling, and system performance metrics.
 
 Features:
+
 Processes Tab:
+
   View all running processes with PID, name, and memory usage.
   Search and filter processes.
   Terminate selected processes.
+  
 Tasks Tab:
+
   Shows active GUI applications.
   Launch new tasks via file explorer.
   End GUI tasks safely.
+  
 Performance Tab:
+
   View live CPU, RAM, and Disk usage.
+  
 Auto-Refresh:
+
   Background thread updates all tabs every 5 seconds.
 
 ![Screenshot 2025-06-03 191700](https://github.com/user-attachments/assets/0f13a762-a834-4365-b639-e629aee73bae)
