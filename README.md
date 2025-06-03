@@ -7,13 +7,17 @@ Features:
 Processes Tab:
 
   View all running processes with PID, name, and memory usage.
+  
   Search and filter processes.
+  
   Terminate selected processes.
   
 Tasks Tab:
 
   Shows active GUI applications.
+  
   Launch new tasks via file explorer.
+  
   End GUI tasks safely.
   
 Performance Tab:
